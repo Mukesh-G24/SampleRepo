@@ -1,2 +1,5 @@
-New flie
+New file
 Adding new line to my file
+hi
+hello 
+how are you
